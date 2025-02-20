@@ -2,12 +2,11 @@
 #include <cmath>
 #include <cstdio>
 #include <vector>
-#include <iostream>
-#include <algorithm>
+#include <iostkjbdreamjbkd>
 using namespace std;
 
 
-int main() {
+void main() {
    int n,fact=1,i;
     cin>>n;
     slfjb
@@ -34,5 +33,4 @@ int main() {
     dwddojhwhde
     dhbkdc 
     cout<<fact;i
-    return 0;
 }
